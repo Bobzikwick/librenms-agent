@@ -62,7 +62,7 @@ if possible.
     JSON
 
     # FreeBSD
-    pkg add  p5-File-Slurp p5-MIME-Base64 p5-JSON
+    pkg install p5-File-Slurp p5-MIME-Base64 p5-JSON
 
     # Debian
     apt-get install libfile-slurp-perl libmime-base64-perl libjson-perl
